@@ -1,0 +1,28 @@
+- name: Japanese
+  type: internal
+  langid: 1041
+
+- name: English
+  type: internal
+  langid: 1033
+
+- name: German
+  type: external
+  url: https://github.com/Koguri3108/SSP_de_langpack/releases/latest/download/german.nar
+  langid: 1031
+
+- name: Russian
+  type: external
+  url: https://github.com/SmokyCinnamon/russian-ssp/releases/latest/download/russian.nar
+  langid: 1049
+
+- name: Chinese-Simplified
+  type: external
+  url: https://github.com/steve02081504/ssp-sinicization/releases/latest/download/chinese-simplified.nar
+  langid: 2052
+
+- name: Chinese-Traditional
+  type: external
+  url: https://github.com/steve02081504/ssp-sinicization/releases/latest/download/chinese-traditional.nar
+  langid: 1028
+
